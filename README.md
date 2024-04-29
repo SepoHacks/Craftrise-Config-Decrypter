@@ -11,7 +11,7 @@ This script decrypts and parses the "%appdata%/.craftrise/config.json" file to r
 #### 1. Clone or download the project:
 ####
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/SepoHacks/Craftrise-Config-Decrypter.git
 ```
 #### 2. Open the code in IntelliJ IDEA or any other Java editor.
 #### 3. Ensure necessary libraries are added:
